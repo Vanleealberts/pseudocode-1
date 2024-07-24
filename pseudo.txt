@@ -1,0 +1,17 @@
+#requests user to enter a positive number repeatedly until inputting a zero value
+#determine the largest number that was input 
+#print the largest number that was input
+
+
+
+#read a arbitrary sum of integers
+#read how many integers there are
+#add the sum of the integers together 
+#divide the total sum of integers with the number of integers
+#print the arithmetic average
+
+
+
+#read the list of grocery products
+#put items in alphabetical order by name
+#print alphabetically ordered products names
